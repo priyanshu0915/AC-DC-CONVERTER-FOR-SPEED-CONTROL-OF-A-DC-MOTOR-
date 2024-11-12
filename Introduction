@@ -1,2 +1,0 @@
-<h1> Introduction</h1>
-<p>This project focuses on developing a two-stage AC-DC converter to control the speed of a DC motor. The main objectives are to convert AC input to a regulated DC output while maintaining control over motor speed by adjusting the DC output voltage. This converter can be employed in various applications where stable speed control of DC motors is essential.</p>
