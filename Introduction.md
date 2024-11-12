@@ -1,10 +1,6 @@
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AC-DC Converter for DC Motor Speed Control - Introduction</title>
-</head>
-<body>
+
+
     <header>
         <h1>AC-DC Converter for DC Motor Speed Control</h1>
     </header>
@@ -29,5 +25,5 @@
             such as robotics, industrial automation, and electronic projects where motor precision is essential.
         </p>
     </section>
-</body>
+
 
