@@ -1,0 +1,17 @@
+# LTspice simulation outputs & temporary files
+*.raw
+*.log
+*.op.raw
+*.fft
+*.net
+*.plt
+*.fail
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
